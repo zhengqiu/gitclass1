@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fjiejfdkjfkeliufjie
+=======
+fjiejfdkjfkejfi;ejfdksjkjfdjfkdjf
+>>>>>>> 06332a35e0759b001afd1767fc7281673ae2f23a
